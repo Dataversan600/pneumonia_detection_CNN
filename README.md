@@ -13,7 +13,6 @@ Chest X-Ray Images (Pneumonia) - Kaggle
 
 ## Notebook
 [pneumonia_detection.ipynb](https://www.kaggle.com/code/thecoderverse2025/pneumonia-detection-cnn)
-<img width="816" height="540" alt="image" src="https://github.com/user-attachments/assets/08417c71-2031-4f7f-a8b3-44bb2a42c73f" />
 
 ## Features
 - Image preprocessing
