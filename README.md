@@ -12,7 +12,7 @@ This project uses a Convolutional Neural Network (CNN) to detect pneumonia from 
 Chest X-Ray Images (Pneumonia) - Kaggle
 
 ## Notebook
-[pneumonia_detection.ipynb](./pneumonia_detection.ipynb)
+[pneumonia_detection.ipynb](https://www.kaggle.com/code/thecoderverse2025/pneumonia-detection-cnn)
 ## Features
 - Image preprocessing
 - CNN model training
