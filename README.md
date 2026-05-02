@@ -8,8 +8,11 @@ I Built a CNN-based deep learning model to detect pneumonia from chest X-ray ima
 This project uses a Convolutional Neural Network (CNN) to detect pneumonia from chest X-ray images.
 
 ## Dataset
+[Chest X-Ray Pneumonia Dataset](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
 Chest X-Ray Images (Pneumonia) - Kaggle
 
+## Notebook
+[pneumonia_detection.ipynb](./pneumonia_detection.ipynb)
 ## Features
 - Image preprocessing
 - CNN model training
